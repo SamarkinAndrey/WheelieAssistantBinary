@@ -22,5 +22,6 @@
 • Распаковываем скачанный архив, запускаем\
 flash_download_tool\flash_download_tool_3.9.9_R2.exe\
 • Настраиваем как указано на скриншотах 1.png и 2.png (пути уже настроены, если не менялась структура папок), выбираем COM-порт к которому подключена esp32, жмем Start\
-• Ставим WheelieAssistant_v1.0.apk, пока только для Android
+• Ставим WheelieAssistant_###.apk, пока только для Android
 
+Подробнее в Telegramm: https://t.me/WheelieAssistant
